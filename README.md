@@ -1,5 +1,5 @@
 # VKRichPresence
-[![pypresence](https://img.shields.io/badge/pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
+[![pypresence](https://img.shields.io/badge/pypresence-00bb88.svg?style=for-the-badge&logo=vk&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 
 ## About
 Application gives chance to show music from your status VK.
